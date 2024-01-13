@@ -30,4 +30,7 @@
 
 ![image](https://github.com/MinDongRyul/torch/assets/101853960/33c9df47-e4ef-48a7-861e-2cb6752083aa)
 
-### torch 실습 : torch tutorial.ipynb
+## torch 실습 : torch tutorial.ipynb
+
+### Ref
+https://www.youtube.com/watch?v=k60oT_8lyFw&t=3650s
